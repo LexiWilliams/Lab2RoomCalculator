@@ -1,0 +1,14 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\bin\Debug\Lab2RoomCalculator.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab2RoomCalculator\Lab2RoomCalculator\obj\Debug\Lab2RoomCalculator.pdb
